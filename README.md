@@ -7,3 +7,8 @@
 - 写出能控制路径访问的驱动
 - 零信任算法实现
 - 将零信任算法与路径访问相结合
+
+## 如果想成功collaborator
+
+私信我
+https://github.com/innovation-training-program/animated-eureka
