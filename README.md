@@ -1,7 +1,7 @@
 # ITP_driver
 环境配置见：https://blog.junyu33.me/2023/01/10/winkernel_environ.html
 
-也可以使用windbg+virtualKD-redux
+也可以使用 VS2017+windbg+virtualKD-redux
 
 源代码位于 `ITP_driver/KMDF Driver1/Source.c` 与`ITP_driver/ConsoleApplication1/ConsoleApplication1.cpp`
 
