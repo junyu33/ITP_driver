@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"header.h": "c",
+			"ntddk.h": "c",
+			"ios": "c",
+			"istream": "c",
+			"ostream": "c",
+			"xstring": "c"
+		}
+	}
+}

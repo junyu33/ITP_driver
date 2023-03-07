@@ -1,0 +1,7 @@
+﻿  Building 'KMDF Driver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\KMDFDriver1.inf
+  Stamping [Version] section with DriverVer=02/16/2023,20.20.21.585
+  Source.c
+c:\users\test.zjy\source\repos\animated-eureka\kmdf driver1\source.c : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\test.zjy\source\repos\animated-eureka\kmdf driver1\source.c(228): warning C4995: 'MmGetSystemAddressForMdl': name was marked as #pragma deprecated
+  KMDF Driver1.vcxproj -> C:\Users\test.ZJY\source\repos\animated-eureka\x64\Debug\KMDFDriver1.sys
